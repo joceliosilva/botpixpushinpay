@@ -32,7 +32,7 @@ Antes de rodar o bot, você precisa de:
    python bot.py
 
 ## Adendo
-O bot dee ficar rodando, então é interessante que você coloque em uma máquina servidor ou em uma VPS online.
+O bot deve ficar rodando, então é interessante que você coloque em uma máquina servidor ou em uma VPS online.
    
 
    
