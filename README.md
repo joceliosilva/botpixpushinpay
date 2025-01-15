@@ -22,10 +22,13 @@ Antes de rodar o bot, você precisa de:
    ```bash
    git clone https://github.com/joceliosilva/botpixpushinpay.git
 2. Acesse a pasta onde efetuou o clone
+   ```bash
    cd botpixpushinpay
-3. Instale as dependecias
+4. Instale as dependecias
+   ```bash
    pip install -r requirements.txt
-4. Execute
+5. Execute
+   ```bash
    python bot.py
 
 ## Adendo
