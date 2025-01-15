@@ -29,7 +29,7 @@ Antes de rodar o bot, você precisa de:
    pip install -r requirements.txt
 5. Execute
    ```bash
-   python bot.py
+   python pix.py
 
 ## Adendo
 O bot deve ficar rodando, então é interessante que você coloque em uma máquina servidor ou em uma VPS online.
