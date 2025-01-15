@@ -6,10 +6,10 @@ import qrcode
 from io import BytesIO
 
 # Configuração do Token do bot e da PushinPay
-TELEGRAM_BOT_TOKEN = "7189264434:AAG6yj9oxAWaUv8Qyn33Vq0nv-bAIbTAVM4"
-API_PUSHINPAY_PIX = "https://api.pushinpay.com.br/api/pix/cashIn"
-API_PUSHINPAY_STATUS = "https://api.pushinpay.com.br/api/transactions/"
-PUSHINPAY_TOKEN = "10393|M2MsWBYV57DPyKZmzXxXex2BvjNc1TgRZQFkbjv0d5bca8ae"
+TELEGRAM_BOT_TOKEN = "TOKEN DO BOT TELEGRAN"
+API_PUSHINPAY_PIX = "https://api.pushinpay.com.br/api/pix/cashIn" #NÃO MUDAR
+API_PUSHINPAY_STATUS = "https://api.pushinpay.com.br/api/transactions/" #NÃO MUDAR
+PUSHINPAY_TOKEN = "TOKEN PUSHINPAY"
 
 # Configuração do logging
 logging.basicConfig(level=logging.WARNING, format="%(asctime)s - %(levelname)s - %(message)s")
