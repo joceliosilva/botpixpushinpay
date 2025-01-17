@@ -1,6 +1,7 @@
 # Telegram Bot para Geração de PIX
 
 Este é um bot do Telegram que permite gerar um código PIX para pagamento utilizando a API da Pushinpay. Ao utilizar o bot, o usuário pode visualizar a chave copia-e-cola para pagar via PIX e receber um QR Code para facilitar o pagamento.
+ [Teste o bot](https://t.me/pushinpayautobot)
 
 ## Funcionalidades
 
